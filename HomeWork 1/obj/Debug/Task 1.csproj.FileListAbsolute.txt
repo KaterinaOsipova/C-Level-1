@@ -1,0 +1,7 @@
+C:\Users\osipo\source\repos\HomeWork 1\HomeWork 1\bin\Debug\HomeWork 1.exe.config
+C:\Users\osipo\source\repos\HomeWork 1\HomeWork 1\bin\Debug\HomeWork 1.exe
+C:\Users\osipo\source\repos\HomeWork 1\HomeWork 1\bin\Debug\HomeWork 1.pdb
+C:\Users\osipo\source\repos\HomeWork 1\HomeWork 1\obj\Debug\Task 1.csprojAssemblyReference.cache
+C:\Users\osipo\source\repos\HomeWork 1\HomeWork 1\obj\Debug\Task 1.csproj.CoreCompileInputs.cache
+C:\Users\osipo\source\repos\HomeWork 1\HomeWork 1\obj\Debug\HomeWork 1.exe
+C:\Users\osipo\source\repos\HomeWork 1\HomeWork 1\obj\Debug\HomeWork 1.pdb
